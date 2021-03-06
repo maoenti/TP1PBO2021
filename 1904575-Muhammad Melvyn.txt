@@ -1,0 +1,15 @@
+Saya Muhammad Melvyn Maunti mengerjakan TP 1 dalam mata kuliah Desain dan Pemrograman Berorentiasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan.	Aamiin.
+
+Kesulitan:
+1. Mencari syntax yang diperlukan
+2. Searching
+
+Hal Baru:
+1. Layouting
+2. Designing
+3. Component2 basic
+
+Fitur yang sudah:
+1. Login
+2. Logout
+3. Katalog
